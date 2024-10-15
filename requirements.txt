@@ -1,0 +1,14 @@
+tensorflow==2.13.0
+pandas
+scikit-learn
+streamlit
+numpy ==1.22.0
+protobuf == 3.20.3
+grpcio ==1.48.2
+six ==1.12.0
+termcolor == 1.1.0
+astunparse == 1.6.3
+opt_einsum == 2.3.2
+nltk
+
+ 
